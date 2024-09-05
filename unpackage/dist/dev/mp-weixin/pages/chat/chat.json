@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "up-icon": "../../uni_modules/uview-plus/components/u-icon/u-icon",
+    "up-line": "../../uni_modules/uview-plus/components/u-line/u-line",
+    "up-navbar": "../../uni_modules/uview-plus/components/u-navbar/u-navbar",
+    "up-divider": "../../uni_modules/uview-plus/components/u-divider/u-divider",
+    "chatting-box": "../../components/ChattingBox/ChattingBox",
+    "up-button": "../../uni_modules/uview-plus/components/u-button/u-button",
+    "up-input": "../../uni_modules/uview-plus/components/u-input/u-input",
+    "up-grid-item": "../../uni_modules/uview-plus/components/u-grid-item/u-grid-item",
+    "up-grid": "../../uni_modules/uview-plus/components/u-grid/u-grid",
+    "up-popup": "../../uni_modules/uview-plus/components/u-popup/u-popup"
+  }
+}

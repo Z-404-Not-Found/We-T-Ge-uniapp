@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "up-navbar": "../../uni_modules/uview-plus/components/u-navbar/u-navbar",
+    "up-image": "../../uni_modules/uview-plus/components/u-image/u-image",
+    "up-text": "../../uni_modules/uview-plus/components/u-text/u-text"
+  }
+}

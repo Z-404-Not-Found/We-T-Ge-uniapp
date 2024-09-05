@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "up-image": "../../uni_modules/uview-plus/components/u-image/u-image",
+    "up-loading-icon": "../../uni_modules/uview-plus/components/u-loading-icon/u-loading-icon",
+    "up-divider": "../../uni_modules/uview-plus/components/u-divider/u-divider"
+  }
+}

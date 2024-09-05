@@ -1,0 +1,17 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "up-navbar": "../../uni_modules/uview-plus/components/u-navbar/u-navbar",
+    "up-image": "../../uni_modules/uview-plus/components/u-image/u-image",
+    "up-cell": "../../uni_modules/uview-plus/components/u-cell/u-cell",
+    "up-cell-group": "../../uni_modules/uview-plus/components/u-cell-group/u-cell-group",
+    "up-modal": "../../uni_modules/uview-plus/components/u-modal/u-modal",
+    "up-form-item": "../../uni_modules/uview-plus/components/u-form-item/u-form-item",
+    "up-input": "../../uni_modules/uview-plus/components/u-input/u-input",
+    "up-textarea": "../../uni_modules/uview-plus/components/u-textarea/u-textarea",
+    "up-form": "../../uni_modules/uview-plus/components/u-form/u-form",
+    "up-grid-item": "../../uni_modules/uview-plus/components/u-grid-item/u-grid-item",
+    "up-grid": "../../uni_modules/uview-plus/components/u-grid/u-grid",
+    "up-popup": "../../uni_modules/uview-plus/components/u-popup/u-popup"
+  }
+}

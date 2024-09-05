@@ -1,0 +1,65 @@
+{
+    "easycom": {
+        "autoscan": true,
+        // 注意一定要放在custom里，否则无效，https://ask.dcloud.net.cn/question/131175
+        "custom": {
+            "^u--(.*)": "@/uni_modules/uview-plus/components/u-$1/u-$1.vue",
+            "^up-(.*)": "@/uni_modules/uview-plus/components/u-$1/u-$1.vue",
+            "^u-([^-].*)": "@/uni_modules/uview-plus/components/u-$1/u-$1.vue"
+        }
+    },
+    "pages": [
+        //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+        {
+            "path": "pages/chatList/chatList",
+            "style": {
+                "navigationBarTitleText": ""
+            }
+        },
+        {
+            "path": "pages/personalCenter/personalCenter",
+            "style": {
+                "navigationBarTitleText": ""
+            }
+        },
+        {
+            "path": "pages/chat/chat",
+            "style": {
+                "navigationBarTitleText": ""
+            }
+        },
+        {
+            "path": "pages/addRole/addRole",
+            "style": {
+                "navigationBarTitleText": ""
+            }
+        },
+        {
+            "path": "pages/roleCenter/roleCenter",
+            "style": {
+                "navigationBarTitleText": ""
+            }
+        },
+        {
+            "path": "pages/userCenter/userCenter",
+            "style": {
+                "navigationBarTitleText": ""
+            }
+        },
+        {
+        	"path" : "pages/about/about",
+        	"style" : 
+        	{
+        		"navigationBarTitleText" : ""
+        	}
+        }
+    ],
+    "globalStyle": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "",
+        "navigationBarBackgroundColor": "#F8F8F8",
+        "backgroundColor": "#F8F8F8",
+        "navigationStyle": "custom"
+    },
+    "uniIdRouter": {}
+}
