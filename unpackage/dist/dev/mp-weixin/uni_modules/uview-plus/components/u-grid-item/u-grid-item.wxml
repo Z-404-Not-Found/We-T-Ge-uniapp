@@ -1,1 +1,0 @@
-<view wx:if="{{a}}" hover-class="u-grid-item--hover-class" hover-stay-time="{{200}}" bindtap="{{b}}" class="{{['u-grid-item', 'data-v-0a78094b', c]}}" style="{{d}}"><slot/></view>

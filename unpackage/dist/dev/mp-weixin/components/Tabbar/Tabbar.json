@@ -1,7 +1,0 @@
-{
-  "component": true,
-  "usingComponents": {
-    "up-tabbar-item": "../../uni_modules/uview-plus/components/u-tabbar-item/u-tabbar-item",
-    "up-tabbar": "../../uni_modules/uview-plus/components/u-tabbar/u-tabbar"
-  }
-}

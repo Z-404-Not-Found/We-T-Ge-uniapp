@@ -1,1 +1,0 @@
-<view><up-tabbar wx:if="{{b}}" u-s="{{['d']}}" u-i="e0170144-0" bind:__l="__l" u-p="{{b}}"><up-tabbar-item wx:for="{{a}}" wx:for-item="item" wx:key="a" bindclick="{{item.b}}" u-i="{{item.c}}" bind:__l="__l" u-p="{{item.d}}"></up-tabbar-item></up-tabbar></view>
